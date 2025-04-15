@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Renan Perissé', '213334123131', 2000.0, '2001-01-18', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Cadu Sommer', '41254151514132', 1200.0, '2000-04-14', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Henrique Perissé', '414156777435', 800.0, '2004-02-20', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Ryan Rezende', '13213141113', 1500.0, '2006-01-09', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('João Marcos', '1367888862345', 900.0, '1999-07-24', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Thiago Silva', '829391239103', 4400.0, '1997-11-02', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Maria Fernanda', '12312333311', 5800.0, '2002-09-10', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Ronald Bartole', '76960243024', 1900.0, '2001-12-13', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Pedro Nascimento', '123131313131', 2300.0, '2000-11-05', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Rodrigo Mendes', '1321321313344445', 1600.0, '2003-06-11', 0);
